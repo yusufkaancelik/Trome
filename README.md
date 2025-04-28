@@ -20,7 +20,7 @@ Trome, "Talk Room Message" anlamına gelir ve kullanıcıların kolayca mesajla�
 
 1. Bu repo'yu bilgisayarınıza klonlayın:
     ```bash
-    git clone https://github.com/your-username/trome.git
+    git clone https://github.com/yusufkaancelik/trome.git
     ```
 
 2. Gerekli bağımlılıkları yükleyin:
